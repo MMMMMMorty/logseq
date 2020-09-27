@@ -2,5 +2,5 @@
 title: OSTU
 ---
 
-## [[Image thresholding]]
+## It is uesd for [[Image thresholding]]
 ##
